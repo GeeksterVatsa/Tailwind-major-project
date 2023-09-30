@@ -19,7 +19,7 @@ Needed to add an svg to make the background look like it is tilted.<br>
 made it by importing an appropriate svg
 
 ## AoS animate code.
-> < link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> is a CSS line needed to link the AoS through a CDN for your HTML file to access animate library.
-> Animate On Scroll is its full form.
-> find the relavent code below.
+> < link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> is a CSS line needed to link the AoS through a CDN for your HTML file to access animate library.<br>
+> Animate On Scroll is its full form.<br>
+> find the relavent code below.<br>
 > [AOS Github repo](http://michalsnik.github.io/aos/)
